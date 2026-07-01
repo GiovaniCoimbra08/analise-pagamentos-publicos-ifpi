@@ -124,11 +124,12 @@ Alguns insights identificados durante a análise:
 
 - `analise_pagamentos_ifpi.ipynb`: notebook com o tratamento e preparação dos dados
 - `dashboard_pagamentos_ifpi.pbix`: arquivo do dashboard em Power BI
+- `dados_tratados/`: arquivos resumidos utilizados para apoio à análise
 - `imagens_analise/`: imagens das páginas do dashboard
 
 ## Observação sobre os dados
 
-Os arquivos brutos e tratados completos não foram incluídos no repositório devido ao tamanho dos arquivos e por serem dados públicos disponíveis na fonte original.
+Os arquivos brutos e as bases tratadas completas não foram incluídos no repositório devido ao tamanho dos arquivos e por serem dados públicos disponíveis na fonte original. Foram incluídos arquivos resumidos em `dados_tratados/` para apoiar a reprodução dos principais resultados.
 
 O processo de tratamento, limpeza e preparação dos dados está documentado no notebook do projeto.
 
